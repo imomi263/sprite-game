@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\vs2022\DrawGame\main.cpp(324,8): warning C4101: “str2”: 未引用的局部变量
+  正在生成代码
+  2 of 51 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DrawGame.vcxproj -> D:\vs2022\DrawGame\Release\DrawGame.exe
